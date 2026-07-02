@@ -1,0 +1,21 @@
+var e=`- title: Kant and Conscience, Moral Confusion and the <i>Kingdom of Heaven</i>
+  date: 2026-06-28
+  id: kant
+  md: kant.md
+- title: <i>King Lear</i> and Kurosawa's <i>Ran</i> on the Banality of Virtue
+  date: 2021-12-29
+  id: lear
+  md: lear.md
+- title: On the Morality of <i>Nirvana in Fire</i>
+  date: 2021-03-27
+  id: langyabang
+  md: langyabang.md
+- title: 'Humanity in <i>Shin Sekai Yori</i>: Defined by Emotion, Empathy, and the Subconscious Mind'
+  date: 2019-12-30
+  id: ssy
+  md: ssy.md
+- title: Collectivism and Individualism, Progress and Regress, Societal Trajectory and the Individual Will in Science Fiction
+  date: 2019-04-30
+  id: collectivism
+  md: collectivism.md
+`;export{e as t};
