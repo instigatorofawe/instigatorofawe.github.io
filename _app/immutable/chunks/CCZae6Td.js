@@ -1,0 +1,1 @@
+import"./C_qFyjP2.js";import{r as e}from"./BMDx5bsb.js";var t={get data(){return e.data},get error(){return e.error},get form(){return e.form},get params(){return e.params},get route(){return e.route},get state(){return e.state},get status(){return e.status},get url(){return e.url}};export{t};
